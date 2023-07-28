@@ -1,0 +1,6 @@
+.pagenotefound img{
+    width: 100%;
+    height: auto; /* This will maintain the aspect ratio and keep the image responsive */
+    max-width: 100%; /* Make sure the image doesn't exceed its original width */
+    max-height: 30vh;
+}
