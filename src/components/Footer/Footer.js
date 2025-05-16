@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <div className="footer">
       <div>Movie App</div>
-      <div>©2023,Celebal Intern Jitend Parihar</div>
+      <div>©2023,Celebal Intern Heena Kumawat</div>
     </div>
   );
 };
